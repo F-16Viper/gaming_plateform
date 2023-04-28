@@ -2,9 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/": "pages/index.js",
   "/api/igdb/randomCard": "pages/api/igdb/randomCard.js",
   "/api/igdb/games": "pages/api/igdb/games.js",
   "/game/[slug]": "pages/game/[slug].js",
-  "/api/igdb/game": "pages/api/igdb/game.js",
-  "/": "pages/index.js"
+  "/api/igdb/game": "pages/api/igdb/game.js"
 }
